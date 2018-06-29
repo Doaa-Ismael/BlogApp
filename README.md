@@ -1,1 +1,1 @@
- # blog application using Mean stack technologies
+Mean stack application
